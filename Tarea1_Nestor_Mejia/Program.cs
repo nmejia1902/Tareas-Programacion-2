@@ -11,7 +11,7 @@ class Program
 
 
         Persona persona1 = new Persona("Nestor", "Mejia", 38);
-        Persona persona2 = new Persona("Carlos", "López", 30);
+        Persona persona2 = new Persona("Andrea", "", 30);
 
  
         Estante estante = new Estante(1, 5);
